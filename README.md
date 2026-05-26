@@ -9,3 +9,4 @@ This repository is set up so a PDF is readable directly on GitHub Pages.
 3. Open the Pages URL (for example: `https://<user>.github.io/ICRA2026-Workshop-Robustness/`).
 
 The `index.html` page embeds `workshop.pdf` in an in-browser viewer.
+
